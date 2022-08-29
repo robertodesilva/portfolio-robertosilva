@@ -27,3 +27,11 @@ body {
 .nav-item:hover {
     background-color:red;
 }
+
+.banner {
+    
+}
+
+.headline {
+    border: solid red;
+}
